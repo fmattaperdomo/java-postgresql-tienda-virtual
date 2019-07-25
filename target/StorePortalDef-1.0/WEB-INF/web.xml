@@ -12,7 +12,7 @@
     
     <context-param>
         <param-name>host</param-name>
-        <param-value>127.0.0.1</param-value>
+        <param-value>ec2-174-129-227-51.compute-1.amazonaws.com</param-value>
     </context-param>
     <context-param>
         <param-name>port</param-name>
@@ -20,15 +20,15 @@
     </context-param>
     <context-param>
         <param-name>database</param-name>
-        <param-value>test</param-value>
+        <param-value>d5n4callnouju2</param-value>
     </context-param>
     <context-param>
         <param-name>user</param-name>
-        <param-value>postgres</param-value>
+        <param-value>getuuqlczeqjih</param-value>
     </context-param>
     <context-param>
         <param-name>password</param-name>
-        <param-value>postgres</param-value>
+        <param-value>a8dd5cdfdde02d6d38faa9c95ed9583ddac929c3d4f3a1002c36b36b92136452</param-value>
     </context-param>
 
 </web-app>
